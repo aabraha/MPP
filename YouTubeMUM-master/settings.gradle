@@ -1,0 +1,3 @@
+rootProject.name = 'YouTubeMUM'
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+
